@@ -1,4 +1,4 @@
-# KSpace_Demo_Py
+# kspace_demo_py
 
 [![Conda](https://img.shields.io/conda/dn/conda-forge/python)](https://docs.conda.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
