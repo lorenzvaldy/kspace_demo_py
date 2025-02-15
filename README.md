@@ -3,7 +3,7 @@
 [![Conda](https://img.shields.io/conda/dn/conda-forge/python)](https://docs.conda.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A Python implementation of the K-Space MRI simulation originally developed in MATLAB (https://github.com/WinawerLab/kspace_demo.git). This project demonstrates k-space fundamentals through interactive visualization of MRI acquisition and reconstruction.
+A Python implementation of the simulation of K-Space MRI acquisition which originally developed in MATLAB (https://github.com/WinawerLab/kspace_demo.git). This project demonstrates k-space fundamentals through interactive visualization of MRI acquisition and reconstruction.
 
 ![Demo Screenshot](imgs/demo.png)
 
