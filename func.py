@@ -65,7 +65,7 @@ def kspace_params_gui(params: Dict[str, Any] = None) -> Tuple[Dict[str, Any], bo
                     if current == "other":
                         filepath = filedialog.askopenfilename(
                             title="Select Image File",
-                            filetypes=[("Image files", "*.jpg;*.jpeg;*.png;*.bmp"), ("All files", "*.*")]
+                            filetypes=[("Image files", ("*.jpg", "*.jpeg", "*.png", "*.bmp")), ("All files", "*.*")]
                         )
                         if filepath:
                             var.set(filepath)
